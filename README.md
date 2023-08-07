@@ -1,6 +1,6 @@
 # tip_calculator
 
-An Application for calculating total bill
+An Application for evenly splitting the bill between any number of people!
 
 ## Getting Started
 
